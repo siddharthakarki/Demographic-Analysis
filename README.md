@@ -93,7 +93,7 @@ This project serves as a foundation for policymakers and researchers to better u
 
 👤 **Siddhartha Karki**  
 📧 Sidkarki999@gmail.com  
-🌐 [LinkedIn Profile](www.linkedin.com/in/siddhartha-karki)
+🌐 www.linkedin.com/in/siddhartha-karki
 
 ---
 
