@@ -1,5 +1,6 @@
 🌍 Demographic Analysis (2004 - 2024)
-📌 Project Overview
+
+📌 Project Overview:
 This project explores global demographic trends using life expectancy and under-5 mortality data from the International Database (IDB) of the U.S. Census Bureau. The dataset covers 227 countries, categorized by sex, region, and subregion, allowing for an in-depth analysis of health and population dynamics over a 20-year period (2004 - 2024).
 
 🚀 Key Objectives:
