@@ -102,7 +102,7 @@ This project highlights significant improvements in global health over the past 
 
 📧 Sidkarki999@gmail.com
 
-🌐 [siddhartha-karki]
+🌐 www.linkedin.com/in/siddhartha-karki
 
 ⭐ Support & Contributions
 
