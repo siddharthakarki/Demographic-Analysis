@@ -5,8 +5,11 @@ This project explores global demographic trends using life expectancy and under-
 
 🚀 Key Objectives:
 ✔️ Analyze frequency distributions of demographic indicators by sex and region.
+
 ✔️ Evaluate homogeneity vs. heterogeneity within and between subregions.
+
 ✔️ Examine bivariate correlations between demographic variables.
+
 ✔️ Compare historical changes in life expectancy and child mortality over two decades.
 
 📊 Data Description
